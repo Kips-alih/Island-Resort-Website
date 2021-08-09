@@ -9,6 +9,9 @@ padding-right: 40px;
 text-decoration: none;
 text-align: center;
 }
+.container{
+  background-color: skyblue;
+}
 h1{
   color: blue;
   text-align: center;
@@ -17,4 +20,8 @@ h1{
   text-align: center;
   font-style: italic;
   font-weight: bold;
+}
+img{
+  width: 500px;
+  height: 500px;
 }
