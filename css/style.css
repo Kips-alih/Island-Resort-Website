@@ -3,14 +3,16 @@
 }
 .navbar a{
 color: black;
-font-size: medium;
+font-size: 24px;
 padding-left: 100px;
-padding-right: 40px;
+padding-right: 30px;
 text-decoration: none;
 text-align: center;
+line-height: 40px;
 }
 .container{
   background-color: skyblue;
+  padding-left: 100px;
 }
 h1{
   color: blue;
@@ -25,3 +27,4 @@ img{
   width: 500px;
   height: 500px;
 }
+
