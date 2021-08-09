@@ -1,0 +1,12 @@
+.navbar{
+  background-color: cyan;
+}
+.navbar a{
+color: black;
+font-size: medium;
+padding-left: 100px;
+padding-right: 40px;
+text-decoration: none;
+text-align: center;
+}
+
