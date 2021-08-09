@@ -5,9 +5,9 @@ Resort-Island Website
 ### Author
 This project was developed by Alphonce kipngeno
 ### Technologies Used
-*HTML
+* HTML
 To control the layout of the webpage.
-*CSS
+* CSS
 To style the webpage
 ## License
 Licensed under MIT license and copyright (C) 2021 Alphonce.
