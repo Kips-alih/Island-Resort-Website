@@ -9,4 +9,12 @@ padding-right: 40px;
 text-decoration: none;
 text-align: center;
 }
-
+h1{
+  color: blue;
+  text-align: center;
+}
+.intro p{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
