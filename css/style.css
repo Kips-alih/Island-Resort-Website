@@ -5,14 +5,14 @@
 .navbar a{
 color: black;
 font-size: 24px;
-padding-left: 100px;
+padding-left: 70px;
 padding-right: 30px;
 text-decoration: none;
 text-align: center;
 line-height: 40px;
 }
 /*styling the container*/
-.container{
+body{
   background-color: skyblue;
   padding-left: 100px;
 }
@@ -50,3 +50,4 @@ height: 25px;
 margin-top: 10px;
 border-radius: 10px;
 }
+/*styling the body*/
