@@ -36,10 +36,7 @@ img{
   height: 200px;
 }
 /*styling the contact section*/
-.contact{
-  padding-bottom: 50px;
-  font-style: normal;
-  font-size: large;
+.contact h2,p{
   text-align: center;
 }
 /*styling the submit button*/
